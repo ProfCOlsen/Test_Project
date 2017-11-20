@@ -17,5 +17,9 @@ namespace Test_Project
             InitializeComponent();
         }
 
+        private void teddyButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Teddy Button Clicked");
+        }
     }
 }
