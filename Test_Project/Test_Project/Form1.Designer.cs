@@ -41,6 +41,7 @@
             this.professorButton.TabIndex = 0;
             this.professorButton.Text = "Professor";
             this.professorButton.UseVisualStyleBackColor = true;
+            this.professorButton.Click += new System.EventHandler(this.professorButton_Click);
             // 
             // teddyButton
             // 
