@@ -17,5 +17,9 @@ namespace Test_Project
             InitializeComponent();
         }
 
+        private void professorButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Professor Clicked");
+        }
     }
 }
