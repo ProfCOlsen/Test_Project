@@ -17,10 +17,5 @@ namespace Test_Project
             InitializeComponent();
         }
 
-        //I have created a button
-        private void professorButton_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Start this IC early!");
-        }
     }
 }
